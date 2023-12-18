@@ -33,6 +33,9 @@ config.use_dead_keys = false
 -- Set scrollback lines
 config.scrollback_lines = 10000
 
+-- Disable missing glyphs warning
+config.warn_about_missing_glyphs = false
+
 -- Set tab font
 config.window_frame = {
 	font = wezterm.font({ family = "CaskaydiaCove Nerd Font", weight = "Regular" }),
