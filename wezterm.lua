@@ -22,7 +22,7 @@ config.font = wezterm.font("CaskaydiaCove Nerd Font", { weight = "Regular" })
 config.font_size = 15.0
 
 -- Set colorscheme
-config.color_scheme = "tokyonight_night"
+config.color_scheme = "catppuccin-mocha"
 
 -- Remove window decorations (titlebar)
 config.window_decorations = "RESIZE"
